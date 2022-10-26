@@ -1,7 +1,6 @@
 name: ReactJS App
 
-on:
-  push:
+on: push
 
 jobs:
   build:
